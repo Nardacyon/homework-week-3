@@ -20,7 +20,7 @@ function getRandomNumbers() {
 }
 
 function getRandomSymbols() {
-  const specialChar = "!@#$%^&*(){}[]";
+  const specialChar = "!@#$%^&*";
   return specialChar[Math.floor(Math.random() * specialChar.length)];
 }
 
