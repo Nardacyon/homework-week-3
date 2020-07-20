@@ -1,5 +1,7 @@
 # homework-week-3
- 
+
+Link to the Github Pages for this repository: https://nardacyon.github.io/homework-week-3/
+
 This page is a password generator. The page itself is pretty self explanatory, once the user click the "Generate Password" button the user will be asked questions relating to how they want their password.
 
 "How many characters do you want in your password?" (Length must be between 8-128)
